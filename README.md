@@ -1,2 +1,2 @@
 # IntroML
-Reference materials for the course Introduction to Machine Learning
+Reference materials for the course: Introduction to Machine Learning
