@@ -3,4 +3,3 @@ Session 1
 - The Learning Problem
 - Intro to scikit-learn
 - Kaggle Titanic tutorial
-- AstroML tutorial
