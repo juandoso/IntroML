@@ -1,0 +1,11 @@
+
+Caltech
+Lesson 1
+Homework 1: The Learning Problem and The Perceptron Learning Algorithm
+
+Georgia Tech
+Lessons 1 to 3
+Problem Set 1
+
+Ng - Coursera
+Logistic Regression
