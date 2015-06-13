@@ -3,3 +3,4 @@ Session 2
 - Model Evaluation
 - Overfitting and Regularization
 - Cross Validation / Grid Search
+- AstroML tutorial
